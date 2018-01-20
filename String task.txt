@@ -14,8 +14,7 @@ int main()
 	  c=s[i];
 	  if(c=='a'||c=='e'||c=='i'||c=='o'||c=='u'||c=='y'){ 
 	  }  
-	  else{
-	    
+	  else{  
 	    news.push_back('.');
 	    news.push_back(c);
 	  }
